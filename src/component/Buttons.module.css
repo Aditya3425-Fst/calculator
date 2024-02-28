@@ -1,10 +1,10 @@
 .calcbtn{
     width: 25%;
     font-size: 50px;
-    border-radius: 10px;
+    border-radius: 12px;
 }
 .calcbtn:hover,.clearbtn:hover{
-    background-image: linear-gradient(rgb(208, 122, 122),yellow);
+    background-image: linear-gradient(rgb(208, 122, 122),rgb(208, 208, 117));
 }
 .clearbtn{
     width: 75%;
